@@ -1,0 +1,13 @@
+.logo{
+  width: 100px;
+  margin-top: 0.5rem;
+  float: left;
+}
+.foto-persona{
+  width: 100px;
+  margin-top:1rem ;
+  float: center;
+}
+body{
+  background-color:#e0e0e0;
+}

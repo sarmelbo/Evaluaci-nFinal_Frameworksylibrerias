@@ -1,0 +1,22 @@
+.pasta-artesanal{
+  width:100%;
+  height:300px;
+}
+.fotos-usuarios{
+  height: 30px;
+}
+.barra-titulo{
+  background-color: grey;
+}
+.cuerpo-principal{
+    background-color: grey;
+}
+.barra-izquierda{
+  background-color: blue;
+}
+.cuerpo-blog{
+  background-color: pink;
+}
+body{
+  background-image: url(../img/fondococina.jpg);
+}

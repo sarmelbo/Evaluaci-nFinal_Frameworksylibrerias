@@ -1,0 +1,25 @@
+.navbar-inverse {
+  background-color: rgba(8, 45, 94, 0.95);
+  min-height: 10%;
+  border: none;
+}
+
+.logo-img {
+  width: 100px;
+}
+
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+
+.opciones-inicio{
+  background-color: #ef5350;
+  min-height: 10%;
+  border: none;
+}
+
+.btn{
+  background-color: #ef5350;
+  color: black;
+}
